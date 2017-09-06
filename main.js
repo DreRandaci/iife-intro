@@ -5,3 +5,6 @@ console.log('my planets', myPlanets);
 
 let mySpacecraft = SolarSystem.getSpacecraft();
 console.log('mySpacecraft:', mySpacecraft);
+
+let myBigFatStar = SolarSystem.showMeTheStars();
+console.log('myBigFatStar:', myBigFatStar);
